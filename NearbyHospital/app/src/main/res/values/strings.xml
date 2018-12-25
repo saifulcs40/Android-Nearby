@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nearby Hospital</string>
+    <string name="let_me_know_your_location">Let me know your location</string>
+    <string name="show_nearby_hospitals_btn">Show Nearby Hospitals</string>
+    <string name="no_description">No description</string>
+    <string name="hospital_name">Hospital Name</string>
+    <string name="hospital_address">Hospital Address</string>
+    <string name="opening_hour">Opening Hour</string>
+    <string name="call_button">Call</string>
+    <string name="ambulance_button">Ambulance</string>
+    <string name="direction_button">Direction</string>
+
+
+    <!--Hospital Location Lists-->
+    <string-array name="hospital_location_lists">
+        <item>Mirpur</item>
+        <item>Banani</item>
+        <item>Farmgate</item>
+        <item>Gulshan</item>
+        <item>Uttara</item>
+        <item>Mohakhali</item>
+    </string-array>
+</resources>
